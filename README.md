@@ -386,4 +386,4 @@ A sample showing a clean whole-chromosome-scale offset (\~±1.0 log2) confined t
 
 CNAscreen is released under the MIT License (see `LICENSE`). The R packages it uses are installed separately by renv and are covered by their own licences.
 
-If you use CNAscreen, please cite: \> Hynds, R. E. (2026). CNAscreen (version \<x.y.z\>) [Software]. Zenodo. doi:<Zenodo DOI>
+If you use CNAscreen, please cite: \> Hynds, R. E. (2026). CNAscreen (version \<x.y.z\>) [Software]. Zenodo. doi: 10.5281/zenodo.24482397
