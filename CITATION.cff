@@ -4,7 +4,7 @@ title: "CNAscreen"
 abstract: "Genome integrity QC for cultured cells from low-pass whole-genome sequencing using QDNAseq."
 version: "1.1.0"
 date-released: "2026-11-23"
-doi:
+doi: 10.5281/zenodo.24482397
 license: MIT
 repository-code: "https://github.com/EpiCENTR-Lab/CNAscreen"
 authors:
