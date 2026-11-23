@@ -1,0 +1,2 @@
+sample	total_reads	noise_mapd	n_segments	n_bins	n_finite	frac_negative	median_log2	median_bases_pct	median_mappability_pct	frac_low_bases	frac_low_map	frac_excluded_region	sex_mode	sex_ploidy_corrected	plot_file	qdnaseq_rds	bins_tsv_gz	segments_tsv
+H9_p116	2081951	0.23113544395094	25	30321	23731	0.499978930512831	0	100	88.3366	0.0493387421259193	0.201015797632004	0	XX	FALSE	H9_p116.plot.png	H9_p116.qdnaseq.rds	H9_p116.bins.tsv.gz	H9_p116.segments.tsv
